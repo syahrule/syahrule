@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @syahrule
 - 👀 I’m interested in Laravel, Vue.js/Nuxt.js
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Laravel, Vue.js/Nuxt.js
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Java, Laravel, Vue.js/Nuxt.js
+
 
 <!---
 syahrule/syahrule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
